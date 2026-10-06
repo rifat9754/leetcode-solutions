@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rifat9754/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
