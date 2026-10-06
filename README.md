@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0213-house-robber-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/rifat9754/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
