@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/rifat9754/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rifat9754/leetcode-solutions/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -100,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
