@@ -110,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rifat9754/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rifat9754/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
