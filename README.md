@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/rifat9754/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/rifat9754/leetcode-solutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Complete Knapsack
 |  |
@@ -98,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
