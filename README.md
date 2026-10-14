@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/rifat9754/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rifat9754/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/rifat9754/leetcode-solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/rifat9754/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/rifat9754/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Complete Knapsack
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rifat9754/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/rifat9754/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Linked List
 |  |
 | ------- |
@@ -166,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rifat9754/leetcode-solutions/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/rifat9754/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
