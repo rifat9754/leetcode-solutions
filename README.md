@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rifat9754/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rifat9754/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/rifat9754/leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rifat9754/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
