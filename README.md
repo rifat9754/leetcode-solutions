@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/rifat9754/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rifat9754/leetcode-solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/rifat9754/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rifat9754/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/rifat9754/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rifat9754/leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/rifat9754/leetcode-solutions/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rifat9754/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rifat9754/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
