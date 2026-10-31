@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rifat9754/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/rifat9754/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0213-house-robber-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/rifat9754/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/rifat9754/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rifat9754/leetcode-solutions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rifat9754/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rifat9754/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/rifat9754/leetcode-solutions/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rifat9754/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/rifat9754/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
