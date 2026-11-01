@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rifat9754/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/rifat9754/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rifat9754/leetcode-solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/rifat9754/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rifat9754/leetcode-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rifat9754/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rifat9754/leetcode-solutions/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rifat9754/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rifat9754/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/rifat9754/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0387-first-unique-character-in-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/rifat9754/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rifat9754/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/rifat9754/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rifat9754/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rifat9754/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/rifat9754/leetcode-solutions/tree/master/0051-n-queens) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/rifat9754/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
